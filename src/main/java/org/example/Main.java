@@ -21,7 +21,7 @@ public class Main {
     public static void main(String[] args)throws IOException, URISyntaxException
     {
         String connString = "HostName=mot-so-cong-nghe-phat-trien-phan-mem.azure-devices.net;DeviceId=device0104;SharedAccessKey=8HDt1qqvwGreifWRJZnqe4TFp/2holWrlQ21b1YPpBM=";
-        String fullFileName = "D:\\IMAGES\\background desktop\\cats_blue_eyes_animals_pets_4288x2848.jpg";
+        String fullFileName = "E:\\Download\\Nhom08_BAOCAO.docx";
 
         System.out.println("Starting...");
         System.out.println("Beginning setup.");
